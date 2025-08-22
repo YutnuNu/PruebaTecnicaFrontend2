@@ -1,5 +1,7 @@
 # Prueba Técnica FrontEnd
 
 Prueba Técnica FrontEnd
-
-Favor de leer los pasos a seguir en el archivo Instrucciones.md
+CH 57
+22/08/2025
+10:01 am
+Leni Iyadzene Yutnu Hernández Arteaga
